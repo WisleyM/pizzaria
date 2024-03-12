@@ -7,7 +7,7 @@ const Home = () => {
         <header>
           <S.HomeHeaderDetails>
           <div>
-            <S.HomeHeaderDetailsLogo>Pizza Fresh</HomeHeaderDetailsLogo>
+            <S.HomeHeaderDetailsLogo>Pizza Fresh</S.HomeHeaderDetailsLogo>
             <S.HomeHeaderDetailsDate>Aqui ficará a data</S.HomeHeaderDetailsDate>  
           </div>
             <S.HomeHeaderDetailsSearch>
