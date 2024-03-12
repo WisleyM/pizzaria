@@ -1,4 +1,4 @@
-<import {ReactComponent as search } from "assets/icons/search.svg";  
+import { ReactComponent as search } from "assets/icons/search.svg";  
 import * as S from "./style";
 const Home = () => {
   return(
